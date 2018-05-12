@@ -1,0 +1,34 @@
+_repo: When-A-Man-s-A-Man_14367
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wright, Harold Bell
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '1146'
+    url: http://www.gutenberg.org/2009/agents/1146
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Bell_Wright
+description: Lawrence Knight, the ubiquitous Eastern wastrel leaves his debutante
+  fiancèe, Helen Wakenfield to become a "real man," working as a lowly ranch hand
+  in Arizona. The area, however, is suffering from a series of cattle rustlings and
+  the newcomer is suspected of being the perpetrator. Knight clears his name in due
+  course but loses his fiancèe to another Easterner along the way. Happily, a sweet
+  local girl is present to comfort him.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ranch life -- Fiction'
+- !lcsh 'Arizona -- Fiction'
+- !lcc 'PS'
+title: When A Man's A Man
+url: http://www.gutenberg.org/ebooks/14367
